@@ -1,0 +1,15 @@
+items
+assets
+kind
+software-package
+url
+https://archive.org/download/KaliStore2/KaliStore%2b2.ipa
+metadata
+bundle-identifier
+com.kalistoreGrop1
+bundle-version
+1.0.0
+kind
+software
+title
+KaliStore++
